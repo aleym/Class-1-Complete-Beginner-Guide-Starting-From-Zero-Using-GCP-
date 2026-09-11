@@ -56,7 +56,7 @@ ssh-keygen -t ed25519
 ```
 Press **Enter** through the prompts to accept defaults.
 
-> **If you see:** `/c/Users/<you>/.ssh/id_ed25519 already exists. Overwrite (y/n)?` — this just means you already made a key before. Type `n` and press Enter to keep the existing one; there's no need to make a new one.
+> **If you see:** `/c/Users/<you>/.ssh/id_ed123456 already exists. Overwrite (y/n)?` — this just means you already made a key before. Type `n` and press Enter to keep the existing one; there's no need to make a new one.
 
 **Step 3 — Display and copy the key:**
 ```bash
